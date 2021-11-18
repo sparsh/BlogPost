@@ -3,10 +3,22 @@
 /*-----id selectors for icon as it has higher precedence over class selector-----*/
 #search-icon {
     font-size: 1.5em;
+    cursor: pointer;
+}
+
+#forward-icon {
+    text-decoration: none;
+    font-size: 1.5em;
 }
 
 #menu-icon {
     font-size: 1.5em;
+    cursor: pointer;
+}
+
+#back-icon {
+    font-size: 2.0em;
+    color: #fff;
 }
 
 #footer-icon {

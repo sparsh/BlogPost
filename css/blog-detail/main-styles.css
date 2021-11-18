@@ -1,9 +1,6 @@
 @import url(../global-styles.css);
 @import url(./blog-content.css);
-@import url(./blog-content-mq.css);
 @import url(../fa-global-icons.css);
-
-/* Main Page Style, for header, body content and footer */
 
 
 .container .header {
