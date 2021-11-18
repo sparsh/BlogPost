@@ -1,0 +1,25 @@
+
+.author-detail {
+    border-radius: 10px;
+    padding:20px;
+    grid-area: ad;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.author-detail img {
+    width: 100px;
+    height: 100px;
+}
+.author-detail .author-description {
+    margin-left: 10px;
+}
+.more-from-author {
+    border: #000 solid 1px;
+    padding:20px;
+    margin-top: 15px;
+    border-radius: 10px;
+    grid-area: mfa;
+}

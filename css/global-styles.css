@@ -2,13 +2,13 @@
 /*-----element selector-----*/
 .container {
     display: grid;
-    grid-template-rows: 100px 1fr 100px;
+    grid-template-rows: 100px 1fr 150px ;
 }
 
 body {
     font-size: 14px;
     margin:0px;
-    background-color: #E57373;
+    background-color: #3b5998;
     font-family: Open Sans,sans-serif ;
 }
 
@@ -41,5 +41,11 @@ h4 {
     margin: 0;
     padding: 0;
     font-weight: 300;
+}
+
+p {
+    color: #616161;
+    font-size: 1.2em;
+    line-height: 30px;
 }
 

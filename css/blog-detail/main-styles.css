@@ -1,6 +1,7 @@
 @import url(../global-styles.css);
 @import url(./blog-content.css);
 @import url(../fa-global-icons.css);
+@import url(./author-content.css);
 
 
 .container .header {
