@@ -1,6 +1,6 @@
 
 
-/*-----id selector in icon as it has higher precedence over class selector-----*/
+/*-----id selectors for icon as it has higher precedence over class selector-----*/
 #search-icon {
     font-size: 1.5em;
 }
