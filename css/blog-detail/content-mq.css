@@ -1,0 +1,7 @@
+
+/* Media Query for the Blog Grid */
+@media (min-width: 0px) and (max-width:1000px) {
+    .container .responsive-content {
+        grid-template-areas: 't' 'sb'
+    }
+}

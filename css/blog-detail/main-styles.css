@@ -1,32 +1,7 @@
 @import url(../global-styles.css);
-@import url(./blog-content.css);
+@import url(../global-elements.css);
 @import url(../fa-global-icons.css);
+@import url(./blog-content.css);
 @import url(./author-content.css);
-
-
-.container .header {
-    color: #fff;
-    margin-bottom: 10px;
-    display: flex;
-    padding: 0px 20px 0px 20px;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
- }
-
-.container .footer {
-    margin-top: 10px;
-    color: #fff;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
-.footer .footer-icon-container {
-    display: flex;
-    margin-top: 10px;
-    flex-direction: row;
-}
-
+@import url(./content-mq.css);
 
