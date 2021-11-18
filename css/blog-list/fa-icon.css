@@ -1,0 +1,19 @@
+
+
+/*-----id selector in icon as it has higher precedence over class selector-----*/
+#search-icon {
+    font-size: 1.5em;
+}
+
+#menu-icon {
+    font-size: 1.5em;
+}
+
+#footer-icon {
+    font-size: 1.5em;
+    padding-right: 10px;
+    border-radius: 100px;
+    border: #fff solid 1px;
+    padding: 10px;
+    margin-right: 10px;
+}
