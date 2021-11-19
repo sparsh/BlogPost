@@ -22,6 +22,16 @@ img {
     align-items: center;
 }
 
+.author-detail .author-image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.author-image .author-caption {
+    margin-top: 10px;
+}
+
 
 .author-detail .author-description {
     margin-left: 10px;
@@ -32,4 +42,9 @@ img {
     margin-top: 15px;
     border-radius: 10px;
     grid-area: mfa;
+}
+.forward-button {
+    background-color: transparent;
+    border:none;
+    cursor: pointer;
 }

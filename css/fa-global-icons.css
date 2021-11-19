@@ -29,3 +29,8 @@
     padding: 10px;
     margin-right: 10px;
 }
+
+#forward-icon {
+    color: #3b5998;
+    font-size: 2.0em;
+}
